@@ -1,0 +1,14 @@
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/apppasoor.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/apppasoor_qmltyperegistration.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/all_qmltyperegistrations.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/apppasoor_tooling.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/all_aotstats.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/apppasoor_qmlimportscan.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/list_install_components.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/install.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/install/local.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/install/strip.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/apppasoor_autogen_timestamp_deps.dir
+/media/dev/H/projects/pasoor/cmake-build-debug/CMakeFiles/apppasoor_autogen.dir

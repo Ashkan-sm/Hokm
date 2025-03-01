@@ -1,0 +1,4 @@
+module pasoor
+typeinfo apppasoor.qmltypes
+prefer :/pasoor/
+

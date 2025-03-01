@@ -1,0 +1,5 @@
+--resource
+/media/dev/H/projects/pasoor/cmake-build-debug/.qt/rcc/qmake_pasoor.qrc
+--resource
+/media/dev/H/projects/pasoor/cmake-build-debug/.qt/rcc/apppasoor_raw_qml_0.qrc
+/pasoor/main.qml

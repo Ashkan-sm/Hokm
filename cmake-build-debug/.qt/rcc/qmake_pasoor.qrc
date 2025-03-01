@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/pasoor">
+    <file alias="qmldir">/media/dev/H/projects/pasoor/cmake-build-debug/pasoor/qmldir</file>
+  </qresource>
+</RCC>
+

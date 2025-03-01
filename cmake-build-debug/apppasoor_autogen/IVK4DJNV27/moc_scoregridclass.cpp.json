@@ -1,0 +1,124 @@
+{
+    "classes": [
+        {
+            "className": "ScoreGridClass",
+            "lineNumber": 6,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "YourScore",
+                    "notify": "YourScoreChanged",
+                    "read": "YourScore",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setYourScore"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 1,
+                    "name": "OpnScore",
+                    "notify": "OpnScoreChanged",
+                    "read": "OpnScore",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setOpnScore"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 2,
+                    "name": "YourGameScore",
+                    "notify": "YourGameScoreChanged",
+                    "read": "YourGameScore",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setYourGameScore"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 3,
+                    "name": "OpnGameScore",
+                    "notify": "OpnGameScoreChanged",
+                    "read": "OpnGameScore",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setOpnGameScore"
+                }
+            ],
+            "qualifiedClassName": "ScoreGridClass",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "YourScoreChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "OpnScoreChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "YourGameScoreChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "OpnGameScoreChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "getMOpnGameScore",
+                    "returnType": "int"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "mOpnGameScore",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "setMOpnGameScore",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "scoregridclass.h",
+    "outputRevision": 68
+}

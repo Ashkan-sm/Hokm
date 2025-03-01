@@ -1,0 +1,12 @@
+--bare
+-I
+/media/dev/H/projects/pasoor/cmake-build-debug
+-I
+/home/dev/Qt/6.8.1/gcc_64/qml
+--resource
+/media/dev/H/projects/pasoor/cmake-build-debug/.qt/rcc/qmake_pasoor.qrc
+--resource
+/media/dev/H/projects/pasoor/cmake-build-debug/.qt/rcc/apppasoor_raw_qml_0.qrc
+/media/dev/H/projects/pasoor/main.qml
+--json
+/media/dev/H/projects/pasoor/cmake-build-debug/apppasoor_qmllint.json
