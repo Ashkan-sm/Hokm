@@ -1,2 +1,0 @@
-/media/dev/H/projects/pasoor/cmake-build-debug/apppasoor_autogen/include/../IVK4DJNV27/moc_UiBridge.cpp.json
-/media/dev/H/projects/pasoor/cmake-build-debug/apppasoor_autogen/include/../IVK4DJNV27/moc_scoregridclass.cpp.json

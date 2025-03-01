@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/pasoor/">
-    <file alias="qml.qrc">/media/dev/H/projects/pasoor/qml.qrc</file>
-  </qresource>
-</RCC>
-
